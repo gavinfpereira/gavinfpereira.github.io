@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "papers.md", title: "Publications"}
-  - {file: "periphery.md", title: "Teaching & Service"}
+  - {file: "tands.md", title: "Teaching & Service"}
   - {file: "pereira lab.md", title: "Pereira Lab"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
