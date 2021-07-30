@@ -12,4 +12,4 @@ title: "Projects"
 | | | |
 | **Simulation in perinatal epi** | **Perinatal morbidity in LMICs** | | 
 | | | |
-| Coming soon | Coming soon | |
+| Coming Soon | Coming Soon | |
