@@ -3,7 +3,7 @@ type: page
 title: "Epi Research Lab"
 ---
 
-More information on projects, opportunities for collaboration, and scholarships can be found on my lab page.
+More information on projects, opportunities for collaboration, and scholarships can be found on [my lab page](https://pereiralab.github.io/)
 
 # Epi Research Lab
 
