@@ -1,11 +1,11 @@
 ---
 type: page
-title: "Epi Research Lab"
+title: "Pereira Lab"
 ---
 
-More information on projects, opportunities for collaboration, and scholarships can be found on [my lab page](https://pereiralab.github.io/)
-
 # Epi Research Lab
+
+More information on projects, opportunities for collaboration, and scholarships can be found on [my lab page](https://pereiralab.github.io/)
 
 | Name | Current Role | Topic |
 | --------------- | --------------- | --------------- |
