@@ -7,11 +7,3 @@ title: ""
 
 Albert Einstein:
 > If we knew what it was we were doing, it would not be called research, would it?
-
-
-{% if site.show_excerpts %}
-  {% include index.md %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
-  
