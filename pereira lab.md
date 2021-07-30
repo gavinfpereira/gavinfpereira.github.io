@@ -9,7 +9,7 @@ More information on projects, opportunities for collaboration, and scholarships 
 
 | Name | Current Role | Topic |
 | --------------- | --------------- | --------------- |
-| Prof Gavin Pereira | Program Lead | ... |
+| Prof Gavin Pereira | Head of Lab | ... |
 | Dr Gizachew Tessema | Project Lead | Reproductive health|
 | Dr Annette Regan | Project Lead  | Infectious disease and vaccination|
 | Dr Michael (Luke) Marinovich | Project Lead  | Health service technology |
