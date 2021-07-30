@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Teaching & Service
 ---
 
 | Year | Role | Unit | Semester | Course | Institution | Coordination | Students |
