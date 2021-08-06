@@ -36,3 +36,7 @@ plugins:
 
 # Google Analytics
 google_analytics: G-7V5SXSVXK7
+
+url: "https://pereiralab.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
