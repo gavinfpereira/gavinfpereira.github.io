@@ -13,7 +13,7 @@ More information on projects, opportunities for collaboration, and scholarships 
 | Dr Gizachew Tessema | Project Lead | Reproductive health|
 | Dr Annette Regan | Project Lead  | Infectious disease and vaccination|
 | Dr Michael (Luke) Marinovich | Project Lead  | Health service technology |
-| Dr Minda Sarna| Research Fellow  | Infectious disease and vaccination |
+
 | Damien Foo | PhD Candidate  | Vaccination and child health |
 | Sylvester Nyadanu | PhD Candidate  | Air pollution, temperature extremes and health |
 | Kalayu Mruts | PhD Candidate  | Family planning in Ethiopia |
@@ -32,7 +32,7 @@ More information on projects, opportunities for collaboration, and scholarships 
 | Barbara Zileni | PhD Candidate | Continuity of antenatal care in Malawi |
 | Wei Shan (Cassandra) Chong | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
 | Bir Doj Rai | PhD Candidate | Epidemiology of zoonotic diseases events and their spatio-temporal trends in Bhutan |
-| Getayeneh Tesema | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
+| TBA | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
 | Achamyeleh Birhanu Teshale | PhD Candidate  | Stated preference research on reproductive and sexual health services for adolescents and young people: A discrete choice experiment |
 | Merette Khalil | PhD Candidate  | Perinatal and pediatric health outcomes following exposure to influenza and other respiratory viruses in utero |
 
@@ -41,6 +41,7 @@ More information on projects, opportunities for collaboration, and scholarships 
 
 | Alumnus | Previous Role| Topic in Previous Role | Subsequent Position |
 | --------------- | --------------- | --------------- | --------------- |
+| Dr Minda Sarna| Research Fellow  | Infectious disease and vaccination |TBA|
 | (Dr) Gursi Dhamrait | PhD Candidate - passed TBA | Interpregnancy interval and child development | Research Fellow, University of Wollongong |
 | Dr Amanuel Gebremedhin | PhD Candidate - passed 2021 | Interpregnancy interval and pregnancy complications| Research Fellow, Telethon Kids Institute|
 | Dr Maryam Mozooni | PhD Candidate - passed 2020 | Effects of migration, ethnicity and acculturation on perinatal endpoints | Adjunct Lecturer, University of Western Australia |
