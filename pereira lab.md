@@ -13,7 +13,6 @@ More information on projects, opportunities for collaboration, and scholarships 
 | Dr Gizachew Tessema | Project Lead | Reproductive health|
 | Dr Annette Regan | Project Lead  | Infectious disease and vaccination|
 | Dr Michael (Luke) Marinovich | Project Lead  | Health service technology |
-
 | Damien Foo | PhD Candidate  | Vaccination and child health |
 | Sylvester Nyadanu | PhD Candidate  | Air pollution, temperature extremes and health |
 | Kalayu Mruts | PhD Candidate  | Family planning in Ethiopia |
