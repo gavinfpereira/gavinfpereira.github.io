@@ -9,14 +9,14 @@ Free copies of publications can be obtained from my [ResearchGate page](https://
 
 ## Peer-reviewed publication list
 
-As I have published > 100 papers in peer-reviewed journals, I have not provided a list in this site. You can find these on 
+As I have published > 120 papers in peer-reviewed journals, I have not provided a list in this site. You can find these on 
 * [my Google Scholar site](https://scholar.google.com/citations?user=m27YBy8AAAAJ&hl=en)
 * [my ORCID site](https://orcid.org/0000-0003-3740-8117)
 * [my institutional profile](https://staffportal.curtin.edu.au/staff/profile/view/gavin-pereira-0374b4b1/) 
 
 ## Featured publications
 I have listed one important publication per year since 2010 led by myself as first or senior (last) author.
-* **2021** *In progress*
+* **2021** **Pereira G.** 2021. "Cut particulate air pollution, save lives" BMJ 375:n2561. 
 * **2020** Malacova, E., S. Tippaya, H. D. Bailey, K. Chai, B. M. Farrant, A. T. Gebremedhin, H. Leonard, M. L. Marinovich, N. Nassar, A. Phatak,  C. Raynes-Greenow, A.K. Regan, A.Shand, C.J. Shepherd, R. Srinivasjois, G.A. Tessema and **G. Pereira**. 2020. "Stillbirth risk prediction using machine learning for a large cohort of births from Western Australia, 1980–2015." Scientific Reports 10 (1): 5354-5354.
 * **2019** Regan, A. K., M. Gissler, M. C. Magnus, S. E. Håberg, S. Ball, E. Malacova, N. Nassar, H. Leonard, and **G. Pereira.** 2019. "Association between interpregnancy interval and adverse birth outcomes in women with a previous stillbirth: an international cohort study." The Lancet 393 (10180): 1527-1535.
 * **2018** Malacova, E., A. Regan, N. Nassar, C. Raynes-Greenow, H. Leonard, R. Srinivasjois, A. W. Shand, T. Lavin, and **G. Pereira.** 2018. "Risk of stillbirth, preterm delivery, and fetal growth restriction following exposure in a previous birth: Systematic review and meta-analysis."
