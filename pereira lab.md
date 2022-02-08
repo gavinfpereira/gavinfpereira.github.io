@@ -12,6 +12,8 @@ More information on projects, opportunities for collaboration, and scholarships 
 | Prof Gavin Pereira | Head of Lab | ... |
 | Dr Gizachew Tessema | Project Lead | Reproductive health|
 | Dr Annette Regan | Project Lead  | Infectious disease and vaccination|
+| Dr Amanuel Gebremedhin | Project Lead | Quantitative epidemiology |
+| Dr Bereket Adema | Project Lead | Mental health |
 | Dr Michael (Luke) Marinovich | Project Lead  | Health service technology |
 | Damien Foo | PhD Candidate  | Vaccination and child health |
 | Sylvester Nyadanu | PhD Candidate  | Air pollution, temperature extremes and health |
@@ -38,10 +40,11 @@ More information on projects, opportunities for collaboration, and scholarships 
 
 # Alumni
 
-| Alumnus | Previous Role| Topic in Previous Role | Subsequent Position |
+| Alumnus | Previous Role| Topic in Previous Role | Immediate Subsequent Position |
 | --------------- | --------------- | --------------- | --------------- |
-| Dr Minda Sarna| Research Fellow  | Infectious disease and vaccination |TBA|
-| (Dr) Gursi Dhamrait | PhD Candidate - passed TBA | Interpregnancy interval and child development | Research Fellow, University of Wollongong |
+| (Dr) Bereket Adema | PhD Candidate - passed TBA | Mental health and pregnancy outcomes | Curtin School of Population Health |
+| Dr Minda Sarna| Research Fellow  | Infectious disease and vaccination |Research Fellow, Telethon Kids Institute|
+| Dr Gursi Dhamrait | PhD Candidate - passed 2022 | Interpregnancy interval and child development | Research Fellow, University of Wollongong |
 | Dr Amanuel Gebremedhin | PhD Candidate - passed 2021 | Interpregnancy interval and pregnancy complications| Research Fellow, Telethon Kids Institute|
 | Dr Maryam Mozooni | PhD Candidate - passed 2020 | Effects of migration, ethnicity and acculturation on perinatal endpoints | Adjunct Lecturer, University of Western Australia |
 | Dr Jing Guo | PhD Candidate - passed 2020 | The role of human microbiome in explaining asthma and allergy differences between Eastern and Western environments | Senior Research Officer, Department of Health Western Australia |
