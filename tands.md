@@ -7,6 +7,7 @@ title: Teaching & Service
 
 | Year | Role | Unit | Semester | Course | Institution | Coordination | Students |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 2022 - |	Discipline Lead | Multiple | All | Grad Cert/Grad Dip/Master Health Administration, Health Economics, Big Data & Digital Health | Curtin University | 22 staff (direct and indirect)  | 15  |
 | 2019 |	Unit coordinator | Epidemiology & Evidence (STAT6000/01) | S2 | Master Public Health | Curtin University | 3 staff  | 87  |
 | 2019 |	Unit coordinator | Epidemiology & Evidence (STAT6000/01) | S1 | Master Public Health | Curtin University | 3 staff  | 83   |
 | 2019 |	Unit coordinator | Principles of Epidemiology & Biostatistics (MEDS4003) | S1 | Honours | Curtin University | 2 staff  | 11  |
@@ -27,6 +28,8 @@ title: Teaching & Service
  
 | Role | Organisation | Year(s) |
 | ---- | ---- | ---- |
+| Committee Member (Deputy)  | Curtin University Research Committee |	2022-2025 |
+| Committee Member (Deputy)  | Curtin University Faculty of Health Sciences Research Strategy Committee|	2022-2025 |
 | PhD Thesis Examiner | University of Tasmania |	2022 |
 | PhD Thesis Examiner | University of Queensland |	2022 |
 | Grant reviewer | Australian Research Council, Discovery Early Career Award x 3|	2022 |
