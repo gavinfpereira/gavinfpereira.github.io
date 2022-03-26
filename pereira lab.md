@@ -22,7 +22,7 @@ More information on projects, opportunities for collaboration, and scholarships 
 | Jennifer Dunne | PhD Candidate  | Application of simulation in perinatal epidemiology |
 | Dr Kingsley Wong | PhD Candidate  | Prediction of perintal mortality and morbidity with machine learning |
 | Dr Ravisha Srinivasjois | PhD Candidate | Probiotics to reduce morbidity among preterm infants |
-
+| Bir Doj Rai | PhD Candidate | Epidemiology of zoonotic disease events and their spatio-temporal trends in Bhutan |
 
 # Co-supervision
 
@@ -32,11 +32,10 @@ More information on projects, opportunities for collaboration, and scholarships 
 | Scott Sims| PhD Candidate  | Alcohol-related harm in children and young adults |
 | Barbara Zileni | PhD Candidate | Continuity of antenatal care in Malawi |
 | Wei Shan (Cassandra) Chong | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
-| Bir Doj Rai | PhD Candidate | Epidemiology of zoonotic diseases events and their spatio-temporal trends in Bhutan |
-| TBA | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
+| Marwan Ahmed | PhD Candidate | Epidemiology of gestational diabetes in Western Australia |
 | Achamyeleh Birhanu Teshale | PhD Candidate  | Stated preference research on reproductive and sexual health services for adolescents and young people: A discrete choice experiment |
 | Merette Khalil | PhD Candidate  | Perinatal and pediatric health outcomes following exposure to influenza and other respiratory viruses in utero |
-
+| TBA | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
 
 # Alumni
 
