@@ -20,15 +20,20 @@ title: Teaching & Service
 | 2017 |	Lecturer | Epidemiology & Biostatistics Practice (MEDS4003) | S1 | Honours | Curtin University | NA |  12  |
 
 
- **Journal peer reviews**
+ **Journal editor, editorial, special issue and peer review service**
  
- Peer-review contributions as an editor or reviewer, along with citation metrics, can be found on [my Publons site](https://publons.com/researcher/1287244/gavin-pereira/)
+ Peer-review contributions as an editor or reviewer, along with citation metrics, can be found on [my Publons site](https://publons.com/researcher/1287244/gavin-pereira/). Other major contributions are listed below.
  
 | Role | Journal | Year(s) |
 | ---- | ---- | ---- |
-| Section Editor in Chief - Reproductive Health | International Journal of Environmental Research and Public Health | 2022- |
-| Executive Board Member | Environmental Research: Health | 2021- |
-| Editorial Board Member - Children's Health | International Journal of Environmental Research and Public Health | 2019- |
+| Section Editor in Chief - Reproductive Health | International Journal of Environmental Research and Public Health (2020 IF 3.390) | 2022- |
+| Executive Board Member | Environmental Research: Health (2020 IF 6.498) | 2021- |
+| Editorial Board Member - Children's Health | International Journal of Environmental Research and Public Health (2020 IF 3.390) | 2019- |
+| Lead Guest Editor - Focus Issue - Energy transitions, air quality and health | Environmental Research Letters (2020 IF 6.793) | 2021 |
+| Lead Author - Invited Editorial - Energy transitions, air quality and health (2021, 16:2) | Environmental Research Letters (2020 IF 6.793) | 2021 |
+| Sole Author - Invited Editorial - Cut particulate air pollution, save lives (2021) | British Medical Journal (2020 IF 39.890) | 2021 |
+| Senior Author - Invited Commentary - Challenging the assumption that interpregnancy interval causes stillbirth in low-income and middle-income countries (2020, 8:1) | Lancet Global Health (2020 IF 26.763) | 2020 |
+
  
  **Professional service** 
  
@@ -37,6 +42,7 @@ title: Teaching & Service
 | Mentor and Group Mentor for female academic staff (Levels A to D) | Curtin University Health Sciences, Athena Swan Mentorship Program | 2022-2023 |
 | Committee Member (Deputy)  | Curtin University Research Committee |	2022-2025 |
 | Committee Member (Deputy)  | Curtin University Faculty of Health Sciences Research Strategy Committee|	2022-2025 |
+| Grant reviewer | Hong Kong Medical Research Fund, project grants |			2015 – 2022 |
 | PhD Thesis Examiner | University of Tasmania |	2022 |
 | PhD Thesis Examiner | University of Queensland |	2022 |
 | Grant reviewer | Australian Research Council, Discovery Early Career Award x 3|	2022 |
@@ -51,7 +57,6 @@ title: Teaching & Service
 | Grant reviewer | European Science Foundation, AXA Fellowships |	2019 |
 | Grant reviewer | European Science Foundation, Université Lille Nord-Europe PEARL funding |		2019 |
 | Grant reviewer | European Science Foundation, Flanders research grants |			2018 – 2019 |
-| Grant reviewer | Hong Kong Medical Research Fund, project grants |			2015 – 2021 |
 | National committee member | Red Nose National Scientific Advisory Committee |	2019 |
 | Panel member | National Health & Medical Research Council Project Grant Review Panel |	2017 – 2018 |
 | Expert witness | Federal Senate Select Committee on Stillbirth Research |		2018 |
