@@ -24,10 +24,17 @@ title: Teaching & Service
  
  Peer-review contributions as an editor or reviewer, along with citation metrics, can be found on [my Publons site](https://publons.com/researcher/1287244/gavin-pereira/)
  
+| Role | Journal | Year(s) |
+| ---- | ---- | ---- |
+| Section Editor in Chief - Reproductive Health | International Journal of Environmental Research and Public Health | 2022- |
+| Executive Board Member | Environmental Research: Health | 2021- |
+| Editorial Board Member - Children's Health | International Journal of Environmental Research and Public Health | 2019- |
+ 
  **Professional service** 
  
 | Role | Organisation | Year(s) |
 | ---- | ---- | ---- |
+| Mentor and Group Mentor for female academic staff (Levels A to D) | Curtin University Health Sciences, Athena Swan Mentorship Program | 2022-2023 |
 | Committee Member (Deputy)  | Curtin University Research Committee |	2022-2025 |
 | Committee Member (Deputy)  | Curtin University Faculty of Health Sciences Research Strategy Committee|	2022-2025 |
 | PhD Thesis Examiner | University of Tasmania |	2022 |
