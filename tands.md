@@ -39,6 +39,7 @@ title: Teaching & Service
  
 | Role | Organisation | Year(s) |
 | ---- | ---- | ---- |
+| Academic Member | Faculty of Health Sciences Advisory Committee | 2022- |
 | Mentor and Group Mentor for female academic staff (Levels A to D) | Curtin University Health Sciences, Athena Swan Mentorship Program | 2022-2023 |
 | Committee Member (Deputy)  | Curtin University Research Committee |	2022-2025 |
 | Committee Member (Deputy)  | Curtin University Faculty of Health Sciences Research Strategy Committee|	2022-2025 |
@@ -50,7 +51,7 @@ title: Teaching & Service
 | Clinical fellowship practitioner reviewer | Health Council of New Zealand |		2021 |
 | Panel member | European Commission, Horizon Europe Cluster 1 Health|	2021 |
 | Grant reviewer | European Science Foundation, AXA Fellowships|	2021 |
-| Panel member | National Health & Medical Research Council Investigator Grant Review Panel |			2020-2021 |
+| Panel member | National Health & Medical Research Council Investigator Grant Review Panel |			2020-2022 |
 | Panel member | National Health & Medical Research Council Ideas Grant Review Panel |	2020 |
 | Grant reviewer | College of Expert Reviewers, European Science Foundation |		2020 |
 | Senior fellowships reviewer | Wellcome Trust, India Alliance |				2020 |
