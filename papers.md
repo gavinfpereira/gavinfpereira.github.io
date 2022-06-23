@@ -16,6 +16,7 @@ The most up to date list of my publications can be found on
 
 ## Featured peer-reviewed journal articles
 I have listed one important publication per year since 2010 led by myself as first or senior (last) author.
+* **2022** **Pereira G.** A Simple Method to Establish Sufficiency and Stability in Meta-Analyses: With Application to Fine Particulate Matter Air Pollution and Preterm Birth. International journal of environmental research and public health. Feb 11;19(4):2036.
 * **2021** **Pereira G.** 2021. "Cut particulate air pollution, save lives" BMJ 375:n2561. 
 * **2020** Malacova, E., S. Tippaya, H. D. Bailey, K. Chai, B. M. Farrant, A. T. Gebremedhin, H. Leonard, M. L. Marinovich, N. Nassar, A. Phatak,  C. Raynes-Greenow, A.K. Regan, A.Shand, C.J. Shepherd, R. Srinivasjois, G.A. Tessema and **G. Pereira**. 2020. "Stillbirth risk prediction using machine learning for a large cohort of births from Western Australia, 1980–2015." Scientific Reports 10 (1): 5354-5354.
 * **2019** Regan, A. K., M. Gissler, M. C. Magnus, S. E. Håberg, S. Ball, E. Malacova, N. Nassar, H. Leonard, and **G. Pereira.** 2019. "Association between interpregnancy interval and adverse birth outcomes in women with a previous stillbirth: an international cohort study." The Lancet 393 (10180): 1527-1535.
