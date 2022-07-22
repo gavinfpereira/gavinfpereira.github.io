@@ -17,6 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "papers.md", title: "Publications"}
+  - {file: "impact.md", title: "Impact"}
   - {file: "tands.md", title: "Teaching & Service"}
   - {file: "visualisations.md", title: "Visualisations"}
   - {file: "pereira lab.md", title: "Pereira Lab"}
