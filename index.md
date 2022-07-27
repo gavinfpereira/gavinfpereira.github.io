@@ -12,5 +12,5 @@ title: ""
 **  **
 
 <html>
-<marquee behavior="slide" direction="left" scrollamount="10"><i>If we knew what it was we were doing, it would not be called research, would it? </i> - Albert Einstein</marquee>
+<marquee behavior="scroll" direction="left"><i>If we knew what it was we were doing, it would not be called research, would it? </i> - Albert Einstein</marquee>
 </html>  
