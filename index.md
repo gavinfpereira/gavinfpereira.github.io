@@ -8,7 +8,7 @@ title: ""
 Albert Einstein:
 > If we knew what it was we were doing, it would not be called research, would it?
 
-<html>
+
     <div class="overlay-intro"></div>
     <div class="intro-content display-table">
       <div class="table-cell">
@@ -17,4 +17,4 @@ Albert Einstein:
         </div>
       </div>
     </div>
-</html>
+
