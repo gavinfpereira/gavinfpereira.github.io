@@ -5,10 +5,10 @@ title: ""
 
 **I lead an international program of research to better understand, and thereby influence, the biological, social and environmental determinants of health and wellbeing.** 
 
-Albert Einstein:
-> If we knew what it was we were doing, it would not be called research, would it?
-
+[comment]: <> (Keep everything in the round brackets in the next two lines and delete the rest of the text to uncomment)
+[comment]: <> (!Albert Einstein:)
+[comment]: <> (!> If we knew what it was we were doing, it would not be called research, would it?)
 
 <html>
-<marquee behavior="slide" direction="left">If we knew what it was we were doing, it would not be called research, would it? - Albert Einstein, xxx1, xxx2</marquee>
+<marquee behavior="slide" direction="left" scrollamount="25">If we knew what it was we were doing, it would not be called research, would it? - Albert Einstein</marquee>
 </html>  
