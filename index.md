@@ -9,9 +9,6 @@ Albert Einstein:
 > If we knew what it was we were doing, it would not be called research, would it?
 
 
-  
 <html>
-        <div class="container">
-          <p class="intro-subtitle"><span class="text-slider-items">If we knew what it was we were doing, it would not be called research, would it? - Albert Einstein, xxx1, xxx2</span><strong class="text-slider"></strong></p>
-        </div>
-</html>
+<marquee behavior="slide" direction="left">If we knew what it was we were doing, it would not be called research, would it? - Albert Einstein, xxx1, xxx2</marquee>
+</html>  
