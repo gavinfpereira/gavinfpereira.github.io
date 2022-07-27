@@ -7,3 +7,14 @@ title: ""
 
 Albert Einstein:
 > If we knew what it was we were doing, it would not be called research, would it?
+
+<html>
+    <div class="overlay-intro"></div>
+    <div class="intro-content display-table">
+      <div class="table-cell">
+        <div class="container">
+          <p class="intro-subtitle"><span class="text-slider-items">If we knew what it was we were doing, it would not be called research, would it? - Albert Einstein, xxx1, xxx2</span><strong class="text-slider"></strong></p>
+        </div>
+      </div>
+    </div>
+</html>
