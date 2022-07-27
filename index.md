@@ -9,6 +9,8 @@ title: ""
 [comment]: <> (!Albert Einstein:)
 [comment]: <> (!> If we knew what it was we were doing, it would not be called research, would it?)
 
+**  **
+
 <html>
-<marquee behavior="slide" direction="left" scrollamount="25">If we knew what it was we were doing, it would not be called research, would it? - Albert Einstein</marquee>
+<marquee behavior="slide" direction="left" scrollamount="10">If we knew what it was we were doing, it would not be called research, would it? - Albert Einstein</marquee>
 </html>  
