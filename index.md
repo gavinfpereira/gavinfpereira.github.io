@@ -16,6 +16,6 @@ title: ""
   <i>One accurate measurement is worth a thousand expert opinions</i> - Grace Hopper. &emsp;
   <i>Make a habit of two things: to help; or at least to do no harm</i> - Hippocrates. &emsp;
   <i>The threat is the virus, not the people.</i> - UN Human Rights, Office of the High Commissioner. &emsp;
-  <i>In these <u>unprecedented and uncertain times</u> we must get used to the <u>new normal</u>, which is important, <u>now more than ever</u>. Because after all, we are <u>all in this together</u> and are in <u>uncharted waters</u>. Please consider this quote through a <u>different lens</u>.  </i> - Gavin Pereira. An amalgamation of clich&eacute;s during COVID-19 pandemic. &emsp;
+  <i>In these <u>unprecedented and uncertain times</u> we must get used to the <u>new normal</u>, which is important, <u>now more than ever</u>. Because after all, we are <u>all in this together</u> and are in <u>uncharted waters</u>. Please consider this quote through a <u>different lens</u>.  </i> - Gavin Pereira. An amalgamation of clich&eacute;s during the COVID-19 pandemic. &emsp;
   </marquee>
 </html>  
