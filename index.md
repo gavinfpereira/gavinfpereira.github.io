@@ -12,8 +12,8 @@ title: ""
 **  **
 
 <html>
-<marquee behavior="scroll" direction="left"><i>If we knew what it was we were doing, it would not be called research, would it? </i> - Albert Einstein. &emsp
-  <i>One accurate measurement is worth a thousand expert opinions</i> - Grace Hopper. &emsp
-  <i>Make a habit of two things: to help; or at least to do no harm</i> - Hippocrates. &emsp
+<marquee behavior="scroll" direction="left"><i>If we knew what it was we were doing, it would not be called research, would it? </i> - Albert Einstein;&emsp;
+  <i>One accurate measurement is worth a thousand expert opinions</i> - Grace Hopper;&emsp;
+  <i>Make a habit of two things: to help; or at least to do no harm</i> - Hippocrates;&emsp;
   </marquee>
 </html>  
