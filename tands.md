@@ -26,6 +26,7 @@ title: Teaching & Service
  
 | Role | Journal | Year(s) |
 | ---- | ---- | ---- |
+| Editorial Board Member | Scientific Reports (2021 IF 4.996) | 2022 - |
 | Section Editor in Chief - Reproductive Health | International Journal of Environmental Research and Public Health (2020 IF 3.390) | 2022- |
 | Executive Board Member | Environmental Research: Health (2020 IF 6.498) | 2021- |
 | Editorial Board Member - Children's Health | International Journal of Environmental Research and Public Health (2020 IF 3.390) | 2019- |
@@ -39,6 +40,7 @@ title: Teaching & Service
  
 | Role | Organisation | Year(s) |
 | ---- | ---- | ---- |
+| Project Grant Reviewer | Action Medical Research for Children (registered charity) UK | 2022 |
 | Postdoctoral Fellowships Reviewer | European Commission, Horizon Europe, Marie Skłodowska-Curie Actions |		2022 |
 | Academic Member | Curtin University Faculty of Health Sciences Advisory Committee | 2022- |
 | Mentor and Group Mentor for female academic staff (Levels A to D) | Curtin University Health Sciences, Athena Swan Mentorship Program | 2022-2023 |
