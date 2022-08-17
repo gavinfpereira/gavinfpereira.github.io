@@ -3,6 +3,22 @@ layout: page
 title: Teaching & Service
 ---
 
+ **Academic society memberships**
+ 
+Membership of academic societies.
+ 
+| Type | Process | Society | Start year |
+| ---- | ---- | ---- | ---- |
+| Fellow | Selective | Society for Research Synthesis Methodology | 2022 |
+| Partner Member | Ordinary | Health Services Research Association of Australia and New Zealand | 2022 |
+| Member | Ordinary | Public Health Association of Australia | 2022 |
+| Fellow | Selective | Royal Society of Public Health | 2020 |
+| Life Member | Ordinary | International Epidemiology Association | 2018 |
+| Member | Ordinary | Society for Epidemiological Research (USA) | 2009 |
+| Member | Ordinary | International Society for Environmental Epidemiology | 2009 |
+| Member | Ordinary | Australasian Epidemiological Association  | 2009 |
+
+
 **Teaching**
 
 | Year | Role | Unit | Semester | Course | Institution | Coordination | Students |
