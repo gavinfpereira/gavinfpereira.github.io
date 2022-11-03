@@ -22,6 +22,8 @@ More information on projects, opportunities for collaboration, and scholarships 
 | Dr Kingsley Wong | PhD Candidate  | Prediction of perintal mortality and morbidity with machine learning |
 | Dr Ravisha Srinivasjois | PhD Candidate | Probiotics to reduce morbidity among preterm infants |
 | Bir Doj Rai | PhD Candidate | Epidemiology of zoonotic disease events and their spatio-temporal trends in Bhutan |
+| Tsegaye Haile | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
+| Nandin-Erdene (Nandin) Bayart | PhD Candidate  | Air pollution and cardiovascular mortality and morbidity in Mongolia |
 
 1: CA, USA; 2: SA, Australia; 3: NSW, Australia; 
 
@@ -33,8 +35,6 @@ More information on projects, opportunities for collaboration, and scholarships 
 | Barbara Zileni | PhD Candidate | Continuity of antenatal care in Malawi |
 | Wei Shan (Cassandra) Chong | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
 | Marwan Ahmed | PhD Candidate | Epidemiology of gestational diabetes in Western Australia |
-| Tsegaye Haile | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
-| Nandin-Erdene (Nandin) Bayart | PhD Candidate  | Air pollution and cardiovascular mortality and morbidity in Mongolia |
 | TBA | PhD Candidate  | Stated preference research on reproductive and sexual health services for adolescents and young people: A discrete choice experiment |
 | TBA | PhD Candidate  | Perinatal and pediatric health outcomes following exposure to influenza and other respiratory viruses in utero |
 
