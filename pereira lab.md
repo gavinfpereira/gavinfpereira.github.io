@@ -24,6 +24,8 @@ More information on projects, opportunities for collaboration, and scholarships 
 | Bir Doj Rai | PhD Candidate | Epidemiology of zoonotic disease events and their spatio-temporal trends in Bhutan |
 | Tsegaye Haile | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
 | Nandin-Erdene (Nandin) Bayart | PhD Candidate  | Air pollution and cardiovascular mortality and morbidity in Mongolia |
+| Bereket Kefale | PhD Candidate | TBA |
+| Kendalem Asmare Atalell | PhD Candidate | TBA |
 
 1: CA, USA; 2: SA, Australia; 3: NSW, Australia; 
 
