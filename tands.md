@@ -57,8 +57,9 @@ Membership of academic societies.
  
 | Role | Organisation | Year(s) |
 | ---- | ---- | ---- |
+| Project Grant Reviewer | Medical Research Foundation UK, Impact of Climate Change on Health Research Grants | 2022 |
 | Project Grant Reviewer | Action Medical Research for Children (registered charity) UK | 2022 |
-| Panel Member | European Commission, Horizon Europe, Marie Skłodowska-Curie Actions, Postdoctoral Fellowships (Life Sciences) |		2022 |
+| Panel Member, Rapporteur | European Commission, Horizon Europe, Marie Skłodowska-Curie Actions, Postdoctoral Fellowships (Life Sciences) Belgium |		2022 |
 | Academic Member | Curtin University Faculty of Health Sciences Advisory Committee | 2022- |
 | Mentor and Group Mentor for female academic staff (Levels A to D) | Curtin University Health Sciences, Athena Swan Mentorship Program | 2022-2023 |
 | Committee Member (Deputy)  | Curtin University Research Committee |	2022-2025 |
