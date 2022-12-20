@@ -1,6 +1,6 @@
 ---
 type: page
-title: "Pereira Lab"
+title: "Epi Research Lab"
 ---
 
 # Epi Research Lab
@@ -10,7 +10,7 @@ More information on projects, opportunities for collaboration, and scholarships 
 | Name | Current Role | Topic |
 | --------------- | --------------- | --------------- |
 | Prof Gavin Pereira | Head of Lab | ... |
-| Dr Gizachew Tessema | Project Lead | Reproductive health|
+| Dr Gizachew Tessema | co-Heads of Lab| ... |
 | Dr Annette Regan <sup>1</sup> | Project Lead  | Infectious disease and vaccination|
 | Dr Amanuel Gebremedhin | Project Lead | Quantitative epidemiology |
 | Dr Bereket Adema <sup>2</sup> | Project Lead | Mental health |
