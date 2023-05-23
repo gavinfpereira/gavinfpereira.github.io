@@ -38,10 +38,11 @@ Membership of academic societies.
 
  **Journal editor, editorial, special issue and peer review service**
  
- Peer-review contributions as an editor or reviewer, along with citation metrics, can be found on [my Publons site](https://publons.com/researcher/1287244/gavin-pereira/). Other major contributions are listed below.
+Peer-review contributions as an editor or reviewer, along with citation metrics, can be found on [my Publons site](https://publons.com/researcher/1287244/gavin-pereira/). Other major contributions are listed below.
  
 | Role | Journal | Year(s) |
 | ---- | ---- | ---- |
+| Guest Editor - Heat and human health | Scientific Reports (2023 IF 4.996) | 2023 |
 | Editorial Board Member | Scientific Reports (2021 IF 4.996) | 2022 - |
 | Associate Editor | PLoS One (2021 IF 3.752) | 2022 - |
 | Section Editor in Chief - Reproductive Health | International Journal of Environmental Research and Public Health (2020 IF 3.390) | 2022- |
@@ -57,14 +58,16 @@ Membership of academic societies.
  
 | Role | Organisation | Year(s) |
 | ---- | ---- | ---- |
+| Committee Member (Chair)  | Curtin University Faculty of Health Sciences Research Strategy |	2023- |
+| Committee Member (Chair)  | Curtin University Faculty of Health Sciences Graduate Research Studies |	2023- |
+| Committee Member  | Curtin University Grant Strategy Oversight Committee |	2023- |
 | Project Grant Reviewer | Medical Research Foundation UK, Impact of Climate Change on Health Research Grants | 2022 |
 | Project Grant Reviewer | Action Medical Research for Children (registered charity) UK | 2022 |
 | Panel Member, Rapporteur | European Commission, Horizon Europe, Marie Skłodowska-Curie Actions, Postdoctoral Fellowships (Life Sciences) Belgium |		2022 |
 | Academic Member | Curtin University Faculty of Health Sciences Advisory Committee | 2022- |
 | Mentor and Group Mentor for female academic staff (Levels A to D) | Curtin University Health Sciences, Athena Swan Mentorship Program | 2022-2023 |
-| Committee Member (Deputy)  | Curtin University Research Committee |	2022-2025 |
-| Committee Member (Deputy)  | Curtin University Faculty of Health Sciences Research Strategy Committee|	2022-2025 |
-| Grant reviewer | Hong Kong Medical Research Fund, project grants |			2015 – 2022 |
+| Committee Member  | Curtin University Research Committee |	2022- |
+| Grant reviewer | Hong Kong Medical Research Fund, project grants |			2015– |
 | PhD Thesis Examiner | University of Tasmania |	2022 |
 | PhD Thesis Examiner | University of Queensland |	2022 |
 | Grant reviewer | Australian Research Council, Discovery Early Career Award x 3|	2022 |
@@ -72,7 +75,7 @@ Membership of academic societies.
 | Clinical fellowship practitioner reviewer | Health Council of New Zealand |		2021 |
 | Panel member | European Commission, Horizon Europe Cluster 1 Health|	2021 |
 | Grant reviewer | European Science Foundation, AXA Fellowships|	2021 |
-| Panel member | National Health & Medical Research Council Investigator Grant Review Panel |			2020-2022 |
+| Panel member | National Health & Medical Research Council Investigator Grant Review Panel |			2020-2023 |
 | Panel member | National Health & Medical Research Council Ideas Grant Review Panel |	2020 |
 | Grant reviewer | College of Expert Reviewers, European Science Foundation |		2020 |
 | Senior fellowships reviewer | Wellcome Trust, India Alliance |				2020 |
