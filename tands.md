@@ -9,6 +9,7 @@ Membership of academic societies.
  
 | Type | Process | Society | Start year |
 | ---- | ---- | ---- | ---- |
+| Associate | Selective | Australian Academy of Health and Medical Sciences | 2023-2025 |
 | Fellow | Selective | Society for Research Synthesis Methodology | 2022 |
 | Partner Member | Ordinary | Health Services Research Association of Australia and New Zealand | 2022 |
 | Member | Ordinary | Public Health Association of Australia | 2022 |
