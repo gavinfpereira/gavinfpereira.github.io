@@ -62,6 +62,7 @@ Peer-review contributions as an editor or reviewer, along with citation metrics,
 | Committee Member (Chair)  | Curtin University Faculty of Health Sciences Research Strategy |	2023- |
 | Committee Member (Chair)  | Curtin University Faculty of Health Sciences Graduate Research Studies |	2023- |
 | Committee Member  | Curtin University Grant Strategy Oversight Committee |	2023- |
+| Committee Member  | Curtin University Research Committee |	2023- |
 | Project Grant Reviewer | Medical Research Foundation UK, Impact of Climate Change on Health Research Grants | 2022 |
 | Project Grant Reviewer | Action Medical Research for Children (registered charity) UK | 2022 |
 | Panel Member, Rapporteur | European Commission, Horizon Europe, Marie Skłodowska-Curie Actions, Postdoctoral Fellowships (Life Sciences) Belgium |		2022 |
