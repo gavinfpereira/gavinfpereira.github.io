@@ -68,7 +68,6 @@ Peer-review contributions as an editor or reviewer, along with citation metrics,
 | Panel Member, Rapporteur | European Commission, Horizon Europe, Marie Skłodowska-Curie Actions, Postdoctoral Fellowships (Life Sciences) Belgium |		2022 |
 | Academic Member | Curtin University Faculty of Health Sciences Advisory Committee | 2022- |
 | Mentor and Group Mentor for female academic staff (Levels A to D) | Curtin University Health Sciences, Athena Swan Mentorship Program | 2022-2023 |
-| Committee Member  | Curtin University Research Committee |	2022- |
 | Grant reviewer | Hong Kong Medical Research Fund, project grants |			2015– |
 | PhD Thesis Examiner | University of Tasmania |	2022 |
 | PhD Thesis Examiner | University of Queensland |	2022 |
