@@ -25,8 +25,7 @@ More information on projects, opportunities for collaboration, and scholarships 
 | Tsegaye Haile | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
 | Nandin-Erdene (Nandin) Bayart | PhD Candidate  | Air pollution and cardiovascular mortality and morbidity in Mongolia |
 | Bereket Kefale Abitew | PhD Candidate | Trends and risk factors of under-5 mortality in low to middle-income countries |
-| Kendalem Asmare Atalell | PhD Candidate |  Prenatal and Early Life Exposures Associated with Adverse Child Development
-Outcomes in Australia |
+| Kendalem Asmare Atalell | PhD Candidate | Early Life Exposures Associated with Adverse Child Development Outcomes in Australia |
 
 1: CA, USA; 2: SA, Australia; 3: NSW, Australia; 
 
