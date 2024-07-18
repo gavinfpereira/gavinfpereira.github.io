@@ -9,8 +9,8 @@ More information on projects, opportunities for collaboration, and scholarships 
 
 | Name | Current Role | Topic |
 | --------------- | --------------- | --------------- |
-| Prof Gavin Pereira | Head of Lab | ... |
-| Dr Gizachew Tessema | co-Heads of Lab| ... |
+| Prof Gavin Pereira | co-Head of Lab | ... |
+| Dr Gizachew Tessema | co-Head of Lab| ... |
 | Dr Annette Regan <sup>1</sup> | Project Lead  | Infectious disease and vaccination|
 | Dr Amanuel Gebremedhin | Project Lead | Quantitative epidemiology |
 | Dr Bereket Adema <sup>2</sup> | Project Lead | Mental health |
@@ -24,8 +24,9 @@ More information on projects, opportunities for collaboration, and scholarships 
 | Bir Doj Rai | PhD Candidate | Epidemiology of zoonotic disease events and their spatio-temporal trends in Bhutan |
 | Tsegaye Haile | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
 | Nandin-Erdene (Nandin) Bayart | PhD Candidate  | Air pollution and cardiovascular mortality and morbidity in Mongolia |
-| Bereket Kefale | PhD Candidate | TBA |
-| Kendalem Asmare Atalell | PhD Candidate | TBA |
+| Bereket Kefale Abitew | PhD Candidate | Trends and risk factors of under-5 mortality in low to middle-income countries |
+| Kendalem Asmare Atalell | PhD Candidate |  Prenatal and Early Life Exposures Associated with Adverse Child Development
+Outcomes in Australia |
 
 1: CA, USA; 2: SA, Australia; 3: NSW, Australia; 
 
