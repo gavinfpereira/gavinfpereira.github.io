@@ -20,21 +20,6 @@ Membership of academic societies.
 | Member | Ordinary | Australasian Epidemiological Association  | 2009 |
 
 
-**Teaching**
-
-| Year | Role | Unit | Semester | Course | Institution | Coordination | Students |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 2022 - |	Discipline Lead | Multiple | All | Grad Cert/Grad Dip/Master Health Administration, Health Economics, Big Data & Digital Health | Curtin University | 22 staff (direct and indirect)  | 15  |
-| 2019 |	Unit coordinator | Epidemiology & Evidence (STAT6000/01) | S2 | Master Public Health | Curtin University | 3 staff  | 87  |
-| 2019 |	Unit coordinator | Epidemiology & Evidence (STAT6000/01) | S1 | Master Public Health | Curtin University | 3 staff  | 83   |
-| 2019 |	Unit coordinator | Principles of Epidemiology & Biostatistics (MEDS4003) | S1 | Honours | Curtin University | 2 staff  | 11  |
-| 2018	| Unit coordinator | Principles of Epidemiology & Biostatistics (MEDS4003) | S1 | Honours | Curtin University | 2 staff  | 14  |
-| 2019 |	Lecturer | Epidemiology & Evidence (STAT6000/01) | S1 | Master of Public Health | Curtin University | NA | 87  |
-| 2019 |	Lecturer | Epidemiology & Evidence (STAT6000/01) | S1 | Master of Public Health | Curtin University | NA |  83  |
-| 2019 |	Lecturer | Epidemiology & Biostatistics Practice (MEDS4002) | S2 | Honours | Curtin University | NA |  11  |
-| 2019 |	Lecturer | Epidemiology & Biostatistics Practice (MEDS4003) | S1 | Honours | Curtin University | NA |  11  |
-| 2018 |	Lecturer | Epidemiology & Biostatistics Practice (MEDS4003) | S1 | Honours | Curtin University | NA |  14  |
-| 2017 |	Lecturer | Epidemiology & Biostatistics Practice (MEDS4003) | S1 | Honours | Curtin University | NA |  12  |
 
 
  **Journal editor, editorial, special issue and peer review service**
@@ -59,6 +44,7 @@ Peer-review contributions as an editor or reviewer, along with citation metrics,
  
 | Role | Organisation | Year(s) |
 | ---- | ---- | ---- |
+| Scientific Advisory Committee Member  | Perth Childrens Hospital Foundation |	2024- |
 | Committee Member (Chair)  | Curtin University Faculty of Health Sciences Research Strategy |	2023- |
 | Committee Member (Chair)  | Curtin University Faculty of Health Sciences Graduate Research Studies |	2023- |
 | Committee Member  | Curtin University Grant Strategy Oversight Committee |	2023- |
@@ -76,7 +62,7 @@ Peer-review contributions as an editor or reviewer, along with citation metrics,
 | Clinical fellowship practitioner reviewer | Health Council of New Zealand |		2021 |
 | Panel member | European Commission, Horizon Europe Cluster 1 Health|	2021 |
 | Grant reviewer | European Science Foundation, AXA Fellowships|	2021 |
-| Panel member | National Health & Medical Research Council Investigator Grant Review Panel |			2020-2023 |
+| Panel member | National Health & Medical Research Council Investigator Grant Review Panel |			2020-2024 |
 | Panel member | National Health & Medical Research Council Ideas Grant Review Panel |	2020 |
 | Grant reviewer | College of Expert Reviewers, European Science Foundation |		2020 |
 | Senior fellowships reviewer | Wellcome Trust, India Alliance |				2020 |
@@ -93,3 +79,19 @@ Peer-review contributions as an editor or reviewer, along with citation metrics,
 | Session chairperson (environ. exposure & pregnancy) | Int. Soc. for Environ. Epidemiol. international conference |	2017 |
 | Director/Assoc director of research and training | School of Public Health, Curtin University |		2016 – 2017 |
 | Panel member | National Health & Medical Research Council Postgraduate Scholarship Panel |		2016 |
+
+**Teaching**
+
+| Year | Role | Unit | Semester | Course | Institution | Coordination | Students |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 2022 |	Discipline Lead | Multiple | All | Grad Cert/Grad Dip/Master Health Administration, Health Economics, Big Data & Digital Health | Curtin University | 22 staff (direct and indirect)  | 15  |
+| 2019 |	Unit coordinator | Epidemiology & Evidence (STAT6000/01) | S2 | Master Public Health | Curtin University | 3 staff  | 87  |
+| 2019 |	Unit coordinator | Epidemiology & Evidence (STAT6000/01) | S1 | Master Public Health | Curtin University | 3 staff  | 83   |
+| 2019 |	Unit coordinator | Principles of Epidemiology & Biostatistics (MEDS4003) | S1 | Honours | Curtin University | 2 staff  | 11  |
+| 2018	| Unit coordinator | Principles of Epidemiology & Biostatistics (MEDS4003) | S1 | Honours | Curtin University | 2 staff  | 14  |
+| 2019 |	Lecturer | Epidemiology & Evidence (STAT6000/01) | S1 | Master of Public Health | Curtin University | NA | 87  |
+| 2019 |	Lecturer | Epidemiology & Evidence (STAT6000/01) | S1 | Master of Public Health | Curtin University | NA |  83  |
+| 2019 |	Lecturer | Epidemiology & Biostatistics Practice (MEDS4002) | S2 | Honours | Curtin University | NA |  11  |
+| 2019 |	Lecturer | Epidemiology & Biostatistics Practice (MEDS4003) | S1 | Honours | Curtin University | NA |  11  |
+| 2018 |	Lecturer | Epidemiology & Biostatistics Practice (MEDS4003) | S1 | Honours | Curtin University | NA |  14  |
+| 2017 |	Lecturer | Epidemiology & Biostatistics Practice (MEDS4003) | S1 | Honours | Curtin University | NA |  12  |
