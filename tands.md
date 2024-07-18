@@ -84,6 +84,7 @@ Peer-review contributions as an editor or reviewer, along with citation metrics,
 
 | Year | Role | Unit | Semester | Course | Institution | Coordination | Students |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 2023 | Seminar Presenter | Research Skills Workshop | 1 | Nailing the Basics: Practical Statistics Using R for Clinician‐Researchers | WA Country Health Service | NA | 15 attendees |
 | 2022 |	Discipline Lead | Multiple | All | Grad Cert/Grad Dip/Master Health Administration, Health Economics, Big Data & Digital Health | Curtin University | 22 staff (direct and indirect)  | 15  |
 | 2019 |	Unit coordinator | Epidemiology & Evidence (STAT6000/01) | S2 | Master Public Health | Curtin University | 3 staff  | 87  |
 | 2019 |	Unit coordinator | Epidemiology & Evidence (STAT6000/01) | S1 | Master Public Health | Curtin University | 3 staff  | 83   |
