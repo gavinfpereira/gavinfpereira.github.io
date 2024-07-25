@@ -44,6 +44,10 @@ Peer-review contributions as an editor or reviewer, along with citation metrics,
  
 | Role | Organisation | Year(s) |
 | ---- | ---- | ---- |
+|Panel member| Provost Fellow Selection Panel (senior academic women, gender diverse and AFAB), Curtin University|	2024|
+|Panel member| Women Attaining Leadership (WATTLE) Panel, Gender Equity, Curtin University|				2024|
+|Panel member| Academic Career Support Panel (for carers / carer responsibilities), Gender Equity, Curtin University|	2024|
+|Grant reviewer| Interdisciplinary Grants, Rosetrees Trust Charitable Foundation UK		|		2024|
 | Scientific Advisory Committee Member  | Perth Childrens Hospital Foundation |	2024- |
 | Committee Member (Chair)  | Curtin University Faculty of Health Sciences Research Strategy |	2023- |
 | Committee Member (Chair)  | Curtin University Faculty of Health Sciences Graduate Research Studies |	2023- |
