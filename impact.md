@@ -14,6 +14,7 @@ and death in Australia 2018. Australian Burden of Disease Study series no. 23. C
 ## Awards and prizes
 * Public Health Association of Australia, WA Branch, Mentor Award						2023
 * Curtin University John de Laeter Award for Research Leadership/Researcher of the Year				2022
+* IPUMS Global Health Research Award  2022
 * Curtin University Award for Research Excellence – Business, Society and Communities				2019 
 * Raine Medical Research Foundation BrightSpark Award							2017
 * International Society for Environmental Epidemiology Travel Award						2016
