@@ -11,9 +11,9 @@ More information on projects, opportunities for collaboration, and scholarships 
 | --------------- | --------------- | --------------- |
 | Prof Gavin Pereira | co-Head of Lab | ... |
 | Dr Gizachew Tessema | co-Head of Lab| ... |
-| Sylvester Nyadanu | PhD Candidate  | Air pollution, temperature extremes and health |
-
-| Dr Kingsley Wong | PhD Candidate  | Prediction of perintal mortality and morbidity with machine learning |
+| Sylvester Nyadanu | Research Fellow  | Air pollution, temperature extremes and health |
+| Dr Kingsley Wong | Research Fellow and PhD Candidate  | Prediction of perintal mortality and morbidity with machine learning |
+| Ms Teya Duggelby | Project Coordinator  | FHRI Fund Digital Health Innovations Project |
 | Dr Ravisha Srinivasjois | PhD Candidate | Probiotics to reduce morbidity among preterm infants |
 | Bir Doj Rai | PhD Candidate | Epidemiology of zoonotic disease events and their spatio-temporal trends in Bhutan |
 | Tsegaye Haile | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
@@ -22,14 +22,7 @@ More information on projects, opportunities for collaboration, and scholarships 
 | Kendalem Asmare Atalell | PhD Candidate | Early Life Exposures Associated with Adverse Child Development Outcomes in Australia |
 | Getaneh Mulu | PhD Candidate | An assessment of potential avenues and targets for improvement of perinatal health and perinatal health research methodology in the Northern Territory |
 | Barbara Zileni | PhD Candidate | Continuity of antenatal care in Malawi |
-
-# Co-supervision
-
-| Name | Current Role | Topic |
-| --------------- | --------------- | --------------- |
-
-| TBA | PhD Candidate  | Stated preference research on reproductive and sexual health services for adolescents and young people: A discrete choice experiment |
-| TBA | PhD Candidate  | Perinatal and pediatric health outcomes following exposure to influenza and other respiratory viruses in utero |
+| Ana-Lisa Baker | PhD Candidate | Climate-related exposure and health: what would it take to change our decision-making? |
 
 # Alumni
 
@@ -48,7 +41,7 @@ More information on projects, opportunities for collaboration, and scholarships 
 | Dr Eva Malacova | Research Fellow 2016-2018 | Perinatal epidemiology and data curation | Senior Biostatistician, Queensland Institute for Medical Research |
 | Dr Mil Jacobs | Research Fellow 2015-2016 | Biostatistics and land-use regression | Data Analytics Specialist, Curtin University |
 | Dr Annette Regan  | Senior Research Fellow 2015-2017 | Infectious disease and vaccination| Research Scientist II, Kaiser Permanente CA USA|
-| Dr Amanuel Gebremedhin | Research Fellow 2021-2023 | Quantitative epidemiology | VC Research Fellow, Edith Cowan University WA |
+| Dr Amanuel Gebremedhin | PhD Candidate 2018-2020, Research Fellow 2021-2023 | Quantitative epidemiology | VC Research Fellow, Edith Cowan University WA |
 | Dr Bereket Adema| Research Fellow 2021-2024| Mental health | Senior Research Fellow, Torrens University Adelaide SA|
 | Dr Michael (Luke) Marinovich | Senior Research Fellow 2018-2022 | Health service technology | Senior Research Fellow, University of Sydney NSW Australia |
 | Kalayu Mruts | PhD Candidate 2021-2023 | Family planning in Ethiopia | Coordinator, Murray Primary Health Network NSW |
