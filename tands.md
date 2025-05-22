@@ -44,6 +44,7 @@ Peer-review contributions as an editor or reviewer, along with citation metrics,
  
 | Role | Organisation | Year(s) |
 | ---- | ---- | ---- |
+| Panel Member, Rapporteur | European Commission, Horizon Europe, Environmental Health |		2025 |
 |Panel member| Provost Fellow Selection Panel (senior academic women, gender diverse and AFAB), Curtin University|	2024|
 |Panel member| Women Attaining Leadership (WATTLE) Panel, Gender Equity, Curtin University|				2024|
 |Panel member| Academic Career Support Panel (for carers / carer responsibilities), Gender Equity, Curtin University|	2024|
@@ -67,7 +68,7 @@ Peer-review contributions as an editor or reviewer, along with citation metrics,
 | Panel member | European Commission, Horizon Europe Cluster 1 Health|	2021 |
 | Grant reviewer | European Science Foundation, AXA Fellowships|	2021 |
 | Panel member | National Health & Medical Research Council Investigator Grant Review Panel |			2020-2024 |
-| Panel member | National Health & Medical Research Council Ideas Grant Review Panel |	2020 |
+| Panel member | National Health & Medical Research Council Ideas Grant Review Panel |	2020,2024-2025 |
 | Grant reviewer | College of Expert Reviewers, European Science Foundation |		2020 |
 | Senior fellowships reviewer | Wellcome Trust, India Alliance |				2020 |
 | Grant reviewer | European Science Foundation, AXA Fellowships |	2019 |
