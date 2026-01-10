@@ -16,5 +16,5 @@ The most up to date list of my publications can be found on
 
 ## Publication benchmarks
 
-<a href="https://staffportal.curtin.edu.au/staff/profile/view/gavin-pereira-0374b4b1/"><img src="/assets/GP impact summary.png" width="300" alt="Prof Pereira Research Impact Benchmarks"></a> 
+<img src="/assets/GP impact summary.png" width="300" alt="Prof Pereira Research Impact Benchmarks">
 
