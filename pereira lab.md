@@ -1,30 +1,17 @@
 ---
 type: page
-title: "Epi Research Lab"
+title: "Epidemiology Research Lab"
 ---
 
-# Epi Research Lab
+# The lab
 
-More information on projects, opportunities for collaboration, and scholarships can be found on [my lab page](https://pereiralab.github.io/)
+Our Epidemiology Research Lab is a hub for innovative population health research, tackling the biological, social and environmental drivers of wellbeing. We use cutting‑edge machine learning AI and causal epidemiological inference to unravel how climate change, vulnerable populations, reproductive health and global determinants shape health outcomes. Our team of epidemiologists, biostatisticians, health economists, clinicians, geneticists and environmental scientists collaborate with world‑class global partners while training the next generation of researchers through our honours, masters and PhD programs. By engaging communities and industry, we translate evidence into action, producing insights that make a real difference.
 
-| Name | Current Role | Topic |
-| --------------- | --------------- | --------------- |
-| Prof Gavin Pereira | co-Head of Lab | ... |
-| Dr Gizachew Tessema | co-Head of Lab| ... |
-| Sylvester Nyadanu | Research Fellow  | Air pollution, temperature extremes and health |
-| Dr Kingsley Wong | Research Fellow and PhD Candidate  | Prediction of perintal mortality and morbidity with machine learning |
-| Ms Teya Duggelby | Project Coordinator  | FHRI Fund Digital Health Innovations Project |
-| Dr Ravisha Srinivasjois | PhD Candidate | Probiotics to reduce morbidity among preterm infants |
-| Bir Doj Rai | PhD Candidate | Epidemiology of zoonotic disease events and their spatio-temporal trends in Bhutan |
-| Tsegaye Haile | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
-| Nandin-Erdene (Nandin) Bayart | PhD Candidate  | Air pollution and cardiovascular mortality and morbidity in Mongolia |
-| Bereket Kefale Abitew | PhD Candidate | Trends and risk factors of under-5 mortality in low to middle-income countries |
-| Kendalem Asmare Atalell | PhD Candidate | Early Life Exposures Associated with Adverse Child Development Outcomes in Australia |
-| Getaneh Mulu | PhD Candidate | An assessment of potential avenues and targets for improvement of perinatal health and perinatal health research methodology in the Northern Territory |
-| Barbara Zileni | PhD Candidate | Continuity of antenatal care in Malawi |
-| Ana-Lisa Baker | PhD Candidate | Climate-related exposure and health: what would it take to change our decision-making? |
+# Lab website
 
-# Alumni
+More information on current lab members, projects, opportunities for collaboration, and scholarships can be found on [my lab page](https://epiresearchlab.github.io/)
+
+# Lab alumni
 
 | Alumnus | Previous Role| Topic in Previous Role | Immediate Subsequent Position |
 | --------------- | --------------- | --------------- | --------------- |
