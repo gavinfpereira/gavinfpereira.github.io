@@ -12,6 +12,8 @@ and death in Australia 2018. Australian Burden of Disease Study series no. 23. C
 * [Expert input with cited contribution - Commonwealth Senate Report on Stillbirth Research and Education; 2018](https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Stillbirth_Research_and_Education/Stillbirth/~/media/Committees/stillbirth_ctte/report.pdf)
 
 ## Awards and prizes
+* Raine Medical Research Foundation Research Collaboration Award						2025
+* Curtin University Publication Award (x3)          2025
 * Public Health Association of Australia, WA Branch, Mentor Award						2023
 * Curtin University John de Laeter Award for Research Leadership/Researcher of the Year				2022
 * IPUMS Global Health Research Award  2022
