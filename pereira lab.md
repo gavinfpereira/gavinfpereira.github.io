@@ -11,6 +11,8 @@ Our Epidemiology Research Lab is a hub for innovative population health research
 
 More information on current lab members, projects, opportunities for collaboration, and scholarships can be found on [my lab page](https://epiresearchlab.github.io/)
 
+<a href="https://epiresearchlab.github.io/"><img src="/assets/ERL impact summary.png" width="300" alt="Epidemiology Research Lab"></a>
+
 # Lab alumni
 
 | Alumnus | Previous Role| Topic in Previous Role | Immediate Subsequent Position |
