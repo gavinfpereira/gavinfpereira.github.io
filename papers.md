@@ -16,5 +16,5 @@ The most up to date list of my publications can be found on
 
 ## Publication benchmarks
 
-<img src="/assets/GP impact summary.png" width="300" alt="Prof Pereira Research Impact Benchmarks">
+<img src="https://gavinfpereira.github.io/assets/GP impact summary.png" width="300" alt="Prof Pereira Research Impact Benchmarks">
 
