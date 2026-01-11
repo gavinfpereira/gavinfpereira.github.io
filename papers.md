@@ -14,7 +14,7 @@ The most up to date list of my publications can be found on
 * [my ORCID site](https://orcid.org/0000-0003-3740-8117)
 * [my institutional profile](https://staffportal.curtin.edu.au/staff/profile/view/gavin-pereira-0374b4b1/) 
 
-## Publication benchmarks
+## Summary
 
 <img src="https://gavinfpereira.github.io/assets/GP impact summary.png" width="300" alt="Prof Pereira Research Impact Benchmarks">
 
