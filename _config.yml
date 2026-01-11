@@ -1,6 +1,6 @@
 title: "Gavin Pereira"
 author: "Gavin Pereira"
-description: "Gavin Pereira. Prof. PhD W.Aust., MAppStats ANU, BCM (Hons) W.Aust., GCRC QUT. FRSPH"
+description: "Gavin Pereira. Prof. PhD W.Aust., MAppStats ANU, BCM (Hons) W.Aust., GCRC QUT."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "impact.md", title: "Impact & Awards"}
   - {file: "tands.md", title: "Teaching & Service"}
   - {file: "visualisations.md", title: "Visualisations"}
-  - {file: "pereira lab.md", title: "Pereira Lab"}
+  - {file: "pereira lab.md", title: "Research Lab"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto: gavin.f.pereira@curtin.edu.au"}
@@ -38,6 +38,6 @@ plugins:
 # Google Analytics
 google_analytics: G-7V5SXSVXK7
 
-url: "https://pereiralab.github.io" # the base hostname & protocol for your site
+url: "https://epiresearchlab.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
