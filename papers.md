@@ -18,3 +18,18 @@ The most up to date list of my publications can be found on
 
 <img src="https://gavinfpereira.github.io/assets/GP impact summary.png" width="300" alt="Prof Pereira Research Impact Benchmarks">
 
+## Featured peer-reviewed journal articles
+
+I have listed one important publication per year since 2014 led by myself as first or senior (last) author.
+* **2025** Rai BD, Tenzin T, Tshering D, Dahal N, Tessema GA, Fritschi L, Dodzi SN, and **Pereira G**. Knowledge, attitude, and practice of One Health and zoonotic diseases among multisectoral collaborators in Bhutan: Results from a nationwide survey. PLOS Global Public Health. 5(1):e0004142.
+* **2024** Gebremedhin AT, Mitter VR, Duko B, Tessema GA, and **G. Pereira**. Associations between endometriosis and adverse pregnancy and perinatal outcomes: a population-based cohort study. Archives of Gynecology and Obstetrics. 309(4):1323-31.
+* **2023** Nyadanu SD, Tessema GA, Mullins B, Chai K, Yitshak-Sade M, and **G. Pereira**. Critical windows of maternal exposure to biothermal stress and birth weight for gestational age in Western Australia. Environmental Health Perspectives. 131(12):127017.
+* **2022** **Pereira G.** A Simple Method to Establish Sufficiency and Stability in Meta-Analyses: With Application to Fine Particulate Matter Air Pollution and Preterm Birth. International journal of environmental research and public health. Feb 11;19(4):2036.
+* **2021** **Pereira G.** 2021. "Cut particulate air pollution, save lives" BMJ 375:n2561. 
+* **2020** Malacova, E., S. Tippaya, H. D. Bailey, K. Chai, B. M. Farrant, A. T. Gebremedhin, H. Leonard, M. L. Marinovich, N. Nassar, A. Phatak,  C. Raynes-Greenow, A.K. Regan, A.Shand, C.J. Shepherd, R. Srinivasjois, G.A. Tessema, and **G. Pereira**. 2020. "Stillbirth risk prediction using machine learning for a large cohort of births from Western Australia, 1980–2015." Scientific Reports 10 (1): 5354-5354.
+* **2019** Regan, A. K., M. Gissler, M. C. Magnus, S. E. Håberg, S. Ball, E. Malacova, N. Nassar, H. Leonard, and **G. Pereira.** 2019. "Association between interpregnancy interval and adverse birth outcomes in women with a previous stillbirth: an international cohort study." The Lancet 393 (10180): 1527-1535.
+* **2018** Malacova, E., A. Regan, N. Nassar, C. Raynes-Greenow, H. Leonard, R. Srinivasjois, A. W. Shand, T. Lavin, and **G. Pereira.** 2018. "Risk of stillbirth, preterm delivery, and fetal growth restriction following exposure in a previous birth: Systematic review and meta-analysis." 2018 Jan;125(2):183-92.
+* **2017** Jacobs, M., G. Zhang, S. Chen, B. Mullins, M. Bell, L. Jin, Y. Guo, R. Huxley, and **G. Pereira.** 2017. "The association between ambient air pollution and selected adverse pregnancy outcomes in China: A systematic review." Science of the Total Environment 579: 1179-1192.
+* **2016** **Pereira, G.**, K. A. Evans, D. Q. Rich, M. B. Bracken, and M. L. Bell. 2016. "Fine Particulates, Preterm Birth, and Membrane Rupture in Rochester, NY." Epidemiology 27 (1): 66-73.
+* **2015** **Pereira, G.**, K. Belanger, K. Ebisu, and M. L. Bell. 2014. "Fine particulate matter and risk of preterm birth in Connecticut in 2000-2006: A longitudinal study." American Journal of Epidemiology 179 (1): 67-74.
+* **2014** **Pereira, G.**, M. L. Bell, H. J. Lee, P. Koutrakis, and K. Belanger. 2014. "Sources of fine particulate matter and risk of preterm birth in Connecticut, 2000-2006: A longitudinal study." Environmental Health Perspectives 122 (10): 1117-1122
