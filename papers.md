@@ -20,7 +20,8 @@ The most up to date list of my publications can be found on
 
 ## Featured peer-reviewed journal articles
 
-I have listed one important publication per year since 2014 led by myself as first or senior (last) author.
+I have listed one important publication per year since 2014 led by myself as first or senior (last) author, with direct links to free a free copy of the paper. 
+
 * [**2025** Rai BD, Tenzin T, Tshering D, Dahal N, Tessema GA, Fritschi L, Dodzi SN, and **Pereira G**. Knowledge, attitude, and practice of One Health and zoonotic diseases among multisectoral collaborators in Bhutan: Results from a nationwide survey. PLOS Global Public Health. 5(1):e0004142.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11717284/)
 * [**2024** Gebremedhin AT, Mitter VR, Duko B, Tessema GA, and **G. Pereira**. Associations between endometriosis and adverse pregnancy and perinatal outcomes: a population-based cohort study. Archives of Gynecology and Obstetrics. 309(4):1323-31.](https://espace.curtin.edu.au/bitstream/handle/20.500.11937/93236/93060.pdf?sequence=2&isAllowed=y)
 * [**2023** Nyadanu SD, Tessema GA, Mullins B, Chai K, Yitshak-Sade M, and **G. Pereira**. Critical windows of maternal exposure to biothermal stress and birth weight for gestational age in Western Australia. Environmental Health Perspectives. 131(12):127017.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10752220/)
