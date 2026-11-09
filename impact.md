@@ -4,6 +4,8 @@ title: "Impact & Awards"
 ---
 
 ## Impact and engagement
+* [Expert input - Science Meets Parliament; 2026](https://scienceandtechnologyaustralia.org.au/smp-wa-2026/)
+* [Expert input - HEI publishes new report on Australian wildfires; 2026](https://www.healtheffects.org/announcements/hei-publishes-new-report-australian-wildfires/)
 * [Expert input - Machine Learning for Childhood Vaccinations; 2024](https://www.hippocraticpost.com/paediatrics/machine-learning-for-child-vaccinations/)
 * [Expert input - Outdoor Air Quality: Policy Position Statement. Canberra: Public Health Association of Australia; 2022](https://www.phaa.net.au/advocacy-policy/policy-position-statements)
 * [Methodological advisor with cited contribution - Australian Institute of Health and Welfare 2021. Australian Burden of Disease Study: impact and causes of illness 
