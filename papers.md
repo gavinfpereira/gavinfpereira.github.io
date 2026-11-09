@@ -20,7 +20,7 @@ The most up to date list of my publications can be found on
 
 ## Featured peer-reviewed journal articles
 
-I have listed one important publication per year since 2014 led by myself as first or senior (last) author, with direct links to a free copy of the paper. 
+I have listed one important publication per year since 2014 with direct links to a free copy of the paper. 
 
 * [**2026** Atalell KA, **Pereira G**, Duko B, Nyadanu SD, Cherian S, and Tessema GA. Early Childhood Education and Care and Developmental Vulnerability at School Entry. JAMA Network Open. 9(7):e2626555.](https://pubmed.ncbi.nlm.nih.gov/42518230/)
 * [**2025** Rai BD, Tenzin T, Tshering D, Dahal N, Tessema GA, Fritschi L, Dodzi SN, and **Pereira G**. Knowledge, attitude, and practice of One Health and zoonotic diseases among multisectoral collaborators in Bhutan: Results from a nationwide survey. PLOS Global Public Health. 5(1):e0004142.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11717284/)
